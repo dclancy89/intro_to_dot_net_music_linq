@@ -1,0 +1,10 @@
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.deps.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.runtimeconfig.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.runtimeconfig.dev.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/music-linq/bin/Debug/netcoreapp2.0/LinqSkeleton.pdb
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.csproj.CoreCompileInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.AssemblyInfoInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.AssemblyInfo.cs
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/music-linq/obj/Debug/netcoreapp2.0/LinqSkeleton.pdb
